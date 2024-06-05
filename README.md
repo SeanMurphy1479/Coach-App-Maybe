@@ -1,16 +1,16 @@
 # Coach-App-Maybe
 
-- User reg/profile - sign up/in
+- [] User reg/profile - sign up/in
 
-- Search and filter - location/rating/service/type
+- [] Search and filter - location/rating/service/type
 
-- Booking system - Ability to book a coach for time slots
+- [] Booking system - Ability to book a coach for time slots
 
-- Payment - for use of coach/app *tipping for the coach*
+- [] Payment - for use of coach/app *tipping for the coach*
 
-- Notification - when a timeslot opens up for booking and such
+- [] Notification - when a timeslot opens up for booking and such
 
-- Diet plan - track diet/ performance growth how to improve //Current coach can view with consent of customer
+- [] Diet plan - track diet/ performance growth how to improve //Current coach can view with consent of customer
 
 
 
