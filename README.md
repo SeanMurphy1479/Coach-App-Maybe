@@ -25,5 +25,5 @@ To Do
 - Leaderboard -- Competition
 Users can opt in to leaderboard to either compete against friends maybe nationwide 
 
-Bundles eg: 10 sessions for £250
+- Bundles eg: 10 sessions for £250
 Family plan
