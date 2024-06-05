@@ -1,5 +1,7 @@
 # Coach-App-Maybe
 
+- [X] Make Github Repo
+
 - [ ] User reg/profile - sign up/in
 
 - [ ] Search and filter - location/rating/service/type
