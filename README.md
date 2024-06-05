@@ -16,6 +16,7 @@ To Do
 
 - [ ] Diet plan - track diet/ performance growth how to improve //Current coach can view with consent of customer
 
+
 ------------------------
 
 - Profile - If under 18 a parent profile must be made for it 
@@ -27,3 +28,5 @@ Users can opt in to leaderboard to either compete against friends maybe nationwi
 
 - Bundles eg: 10 sessions for £250
 Family plan
+
+- Training videos to sell as package deals to improve certain aspects of a players game
