@@ -15,7 +15,8 @@ To Do
 - [ ] Notification - when a timeslot opens up for booking and such
 
 - [ ] Diet plan - track diet/ performance growth how to improve //Current coach can view with consent of customer
-
+------------------------
+------------------------
 
 - Profile - If under 18 a parent profile must be made for it 
 
