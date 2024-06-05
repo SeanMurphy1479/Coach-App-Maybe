@@ -16,7 +16,7 @@ To Do
 
 - [ ] Diet plan - track diet/ performance growth how to improve //Current coach can view with consent of customer
 
-
+- [ ] Coach Vids made for certain training and different sports 
 ------------------------
 
 - Profile - If under 18 a parent profile must be made for it 
